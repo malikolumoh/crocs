@@ -1,0 +1,21 @@
+body {
+    background-image: url(image.jpg);
+    
+}
+#mainNav {
+    color: black;
+}
+#mainNav li {
+    display: inline;
+    padding: 10px 20px;   
+}
+#mainNav ul {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+} 
+#mainNav a {
+    color: black;
+    text-decoration: none;
+}
