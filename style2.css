@@ -1,6 +1,7 @@
 body {
     background-image: url(image.jpg);
-    
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #mainNav {
     color: black;
@@ -18,4 +19,45 @@ body {
 #mainNav a {
     color: black;
     text-decoration: none;
+    font-weight: 600;
+}
+.container{
+    margin-top: -65px;
+
+}
+h3{
+    margin-top:0px;
+    padding: 10px;
+    font-size: 30px;
+}
+#signup {
+    background-color: blue;
+    padding: 5px 13px;
+    margin-left: 1250px;
+    color: white;
+    border-radius: 20px;  
+    border: none;
+    margin-top: -60px;
+    position: relative;
+    bottom: 73px;
+    margin-top: 50px;
+    font-size: 15px;
+    font-weight: 600;    
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+    color: white;
+    margin-top: 180px;
+}
+#last{
+background-color: rgb(255, 157, 9);
+padding: 10px 50px;
+margin-left: 570px;
+position: relative;
+bottom: 50px;
+border-radius: 20px;
+border: none;
+font-size:20px;
+font-weight: 600;
 }
